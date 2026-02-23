@@ -1,0 +1,1 @@
+--incr --debug typical --relax --mt auto -L xil_defaultlib -L secureip -L xpm --snapshot L293D_0 xil_defaultlib.L293D_0 -log elaborate.log
