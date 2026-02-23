@@ -15,6 +15,6 @@ This repository contains the Vivado hardware design and Vitis software for an au
 
 ### 1. Vivado Hardware Setup
 1. Open **Vivado 2022.1** (or compatible version).
-2. In the TCL Console, navigate to this folder:
+2. In the TCL Console, navigate to the folder were u downladed the project and use the comand line TCL:
    ```tcl
-   cd <path_to_this_folder>
+   source rebuild_project.tcl
